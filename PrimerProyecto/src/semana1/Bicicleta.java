@@ -9,7 +9,7 @@ public class Bicicleta {
 
     // Constructores
     Bicicleta(){}
-
+    // Sobrecarga del constructor
     Bicicleta(String color){
         this.color = color;
     }
